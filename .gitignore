@@ -1,0 +1,27 @@
+# Ignore all .log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.swp
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore all files ending with .tmp
+*.tmp
+
+# Environment variables
+.env
+
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+myenv/
