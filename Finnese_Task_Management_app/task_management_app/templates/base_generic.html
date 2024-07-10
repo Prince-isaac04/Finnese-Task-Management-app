@@ -13,7 +13,9 @@
         body {
             font-family: Arial, sans-serif;
             background-color: #f8f9fa;
-            padding-top: 80px; /* Adjust spacing from top */
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
         }
         .navbar {
             background-color: #343a40;
@@ -22,7 +24,8 @@
             color: #fff !important;
         }
         .container {
-            margin-top: 20px;
+            flex: 1;
+            margin-top: 80px; /* Adjust spacing from top */
         }
         .jumbotron {
             background-image: url('path-to-your-image.jpg');
@@ -77,9 +80,6 @@
             color: #fff;
             text-align: center;
             padding: 20px 0;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
         }
     </style>
 </head>

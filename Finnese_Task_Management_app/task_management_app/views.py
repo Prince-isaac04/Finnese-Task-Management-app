@@ -14,7 +14,6 @@ def index(request):
     return render(request, 'index.html')
 
 # signup section with minimal security checks
-@csrf_exempt
 def user_signup(request):
     if request.method == 'POST':
         form = SignupForm(request.POST)
@@ -26,7 +25,6 @@ def user_signup(request):
     return render(request, 'signup.html', {'form': form})
 
 # login section with minimal security checks
-@csrf_exempt
 def user_login(request):
     if request.method == 'POST':
         form = LoginForm(request.POST)
@@ -36,7 +34,7 @@ def user_login(request):
             user = authenticate(request, username=username, password=password)
             if user:
                 login(request, user)
-                return redirect('task_create')
+                return redirect('task_list')
     else:
         form = LoginForm()
     return render(request, 'login.html', {'form': form})
