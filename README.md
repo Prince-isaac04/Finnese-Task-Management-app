@@ -5,7 +5,7 @@
 
 The Finesse Task Management App is a Django-based web application for managing tasks with features like task creation, updating, deleting, and viewing detailed task information.
 
-![Finesse Task Management App Screenshot](link-to-screenshot.png)
+
 
 ## Features
 
@@ -31,6 +31,7 @@ Follow these instructions to set up the Finesse Task Management App locally on y
    ```bash
    git clone
    https://github.com/Prince-isaac04/Finnese-Task-Management-app.git
+
    cd Finnese-Task-Management-app
    ```
 
@@ -88,7 +89,12 @@ Follow these instructions to set up the Finesse Task Management App locally on y
 * Chima Enyeribe (Backend)
 * Isaac (Frontend)
 
-
+## Links to Project
+ * Deployed Site -- https://jasperzeroes.pythonanywhere.com/
+ * Project Blog -- https://www.linkedin.com/pulse/building-task-management-app-journey-collaboration-chima-enyeribe-hxjzc/
+ * Backend Developer's Linkedin Profile -- https://www.linkedin.com/in/chima-enyeribe
+ 
+ 
 ## Contributing
 
 Contributions are welcome! Fork the repository and submit a pull request for any improvements or bug fixes.
