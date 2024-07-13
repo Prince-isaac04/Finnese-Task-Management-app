@@ -1,6 +1,6 @@
 # Finnese Task Management Application Landing Page
 
-![Cover Image](Finnese_Task_Management_app\task_management_app\static\homepage.PNG)
+![Cover Image](https://github.com/Prince-isaac04/Finnese-Task-Management-app/tree/backend-dev/Finnese_Task_Management_app/task_management_app/static/homepage.PNG)
 
 # Task Management App
 
@@ -18,19 +18,19 @@
 ## Features
 
 ### 1. Task Creation
-![Task Creation](Finnese_Task_Management_app\task_management_app\static\create-task.PNG)
+![Task Creation](https://github.com/Prince-isaac04/Finnese-Task-Management-app/tree/backend-dev/Finnese_Task_Management_app/task_management_app/static/create-task.PNG)
 **Easily create tasks with just a few clicks.**
 
 Create and manage your tasks with an easy-to-use interface, set priorities, and deadlines to stay on top of your work.
 
 ### 2. Task Tracking
-![Task Tracking](Finnese_Task_Management_app\task_management_app\static\task-list.PNG)
+![Task Tracking](https://github.com/Prince-isaac04/Finnese-Task-Management-app/tree/backend-dev/Finnese_Task_Management_app/task_management_app/static/task-list.PNG)
 **Track the progress of your tasks in real-time.**
 
 Monitor the status of your tasks, mark them as complete, and get an overview of your productivity with progress tracking.
 
 ### 3. Collaborative Workspaces
-![Collaborative Workspaces](path-to-collaborative-workspaces-image.jpg)
+
 **Work together with your team seamlessly.**
 
 Invite team members, assign tasks, and collaborate in real-time to achieve your project goals efficiently.
@@ -40,6 +40,7 @@ Invite team members, assign tasks, and collaborate in real-time to achieve your 
 ## About
 
 ### Inspiration
+
 Everyone on our team brings a unique perspective and set of experiences to our project. For me, the journey to creating this task management app is deeply personal and stems from a need to overcome challenges that have shaped my approach to work and productivity.
 
 
